@@ -41,7 +41,7 @@
 
         // Animation on scroll
         const animateOnScroll = () => {
-            const elements = document.querySelectorAll('.skill-card, .portfolio-item, .profile-img, .profile-text, .message-form, .message-result');
+            const elements = document.querySelectorAll('.skill-card, .certificate-item, .profile-img, .profile-text, .message-form, .message-result');
             
             elements.forEach(element => {
                 const elementPosition = element.getBoundingClientRect().top;
@@ -55,7 +55,7 @@
         };
 
         // Set initial state for animated elements
-        document.querySelectorAll('.skill-card, .portfolio-item').forEach(element => {
+        document.querySelectorAll('.skill-card, .certificate-item').forEach(element => {
             element.style.opacity = '0';
             element.style.transform = 'translateY(20px)';
             element.style.transition = 'opacity 0.5s ease-in-out, transform 0.5s ease-in-out';
