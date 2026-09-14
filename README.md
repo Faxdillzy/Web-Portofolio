@@ -103,6 +103,7 @@ All rights reserved (c) 2026 Fadillah Aryaseto
 
 ## Contact
 
-- Email: contact@fadillah.com
-- GitHub: github.com/fadillah
-- LinkedIn: linkedin.com/in/fadillah
+- Email: fadillaharyaseto1401@gmail.com
+- GitHub: github.com/Faxdillzy
+- LinkedIn: https://www.linkedin.com/in/fadillah-aryaseto-64a0373a5
+  
